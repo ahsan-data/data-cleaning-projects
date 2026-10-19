@@ -1,0 +1,1 @@
+CREATE DATABASE glassdoor_job_postings;
